@@ -1,5 +1,32 @@
 # DRIVERS-Road-Safety-SafeTravelPH
 
+## Introduction
+
+SafeTravelPH.org is proud to announce the release of the updated Data for Road Incident Visualization, Evaluation, and Reporting System (DRIVERS), now rebuilt using ReactJS. This modernization aims to enhance developer accessibility and ensure the project's sustainability within the open-source community.
+
+### Key Enhancements in This Version:
+
+1. **Data Privacy**: To safeguard sensitive personal information, access is restricted ordinary users via Google login, ensuring that such data remains confidential for the general public.
+
+2. **Data Validation**: Embracing the principles of citizen science, the platform allows public submission of incident reports. However, unlike previous versions, each entry now undergoes administrative review and validation before being incorporated into the official database.
+
+3. **Minor-Focused Filters**: Special filters have been implemented to easily identify and address incidents involving individuals aged 18 and below, facilitating targeted interventions for minors.
+
+4. **Mobile App Integration**: Users can now submit reports directly through the SafeTravelPH Mobile App, streamlining the reporting process and enhancing user engagement.
+
+**Acknowledgments**
+This iteration of DRIVERS has been made possible through the generous seed funding from the National Center for Transportation Studies Foundation Inc. (NCTSFI) and UNICEF's Child Road Traffic Incident Prevention (CRTIP) Program. Their support has been instrumental in advancing our mission to improve road safety.
+
+**Call to Action**
+
+We invite government agencies and stakeholders to collaborate in the further development of this platform. Our goal is to establish DRIVERS as the mandated system for local governments and relevant organizations, ensuring a unified and effective approach to road safety data management.
+
+**Background**
+
+The original DRIVERS platform, developed by the World Bank in 2013, served as a pioneering tool for road crash data management. However, challenges such as under-reporting of certain incidents and incomplete data highlighted the need for a more efficient and accurate system. By transitioning to a ReactJS framework and incorporating the enhancements outlined above, SafeTravelPH.org aims to address these challenges and revitalize the platform for contemporary use.
+
+For detailed technical information and setup instructions, please refer to the sections below.
+
 ## Project Folder Structure
 
 The project consists of four main folders:
