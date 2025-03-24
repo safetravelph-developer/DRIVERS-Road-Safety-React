@@ -4,6 +4,10 @@
 
 SafeTravelPH.org is proud to announce the release of the updated Data for Road Incident Visualization, Evaluation, and Reporting System (DRIVERS), now rebuilt using ReactJS. This modernization aims to enhance developer accessibility and ensure the project's sustainability within the open-source community.
 
+Test website: [nctscrtip-driver.safetravel.ph](nctscrtip-driver.safetravel.ph)
+
+Government website using the old program: [roadsafety.gov.ph](roadsafety.gov.ph)
+
 ### Key Enhancements in This Version:
 
 1. **Data Privacy**: To safeguard sensitive personal information, access is restricted ordinary users via Google login, ensuring that such data remains confidential for the general public.
@@ -14,6 +18,11 @@ SafeTravelPH.org is proud to announce the release of the updated Data for Road I
 
 4. **Mobile App Integration**: Users can now submit reports directly through the SafeTravelPH Mobile App, streamlining the reporting process and enhancing user engagement.
 
+5. **Incident Parties**: Better documentation of crash events, including identifying incident Parties (1st, 2nd, 3rd) to determine who caused what and who may have the liability. 
+
+6. **Key Details on Pop-Up**: Users can now click on the markers of the record on the map and see key information, or View/Go to the record page of the incident..
+
+
 **Acknowledgments**
 This iteration of DRIVERS has been made possible through the generous seed funding from the National Center for Transportation Studies Foundation Inc. (NCTSFI) and UNICEF's Child Road Traffic Incident Prevention (CRTIP) Program. Their support has been instrumental in advancing our mission to improve road safety.
 
@@ -23,7 +32,9 @@ We invite government agencies and stakeholders to collaborate in the further dev
 
 **Background**
 
-The original DRIVERS platform, developed by the World Bank in 2013, served as a pioneering tool for road crash data management. However, challenges such as under-reporting of certain incidents and incomplete data highlighted the need for a more efficient and accurate system. By transitioning to a ReactJS framework and incorporating the enhancements outlined above, SafeTravelPH.org aims to address these challenges and revitalize the platform for contemporary use.
+The original DRIVERS platform, developed by the World Bank in 2013, served as a pioneering tool for road crash data management. However, challenges such as under-reporting of certain incidents and incomplete data highlighted the need for a more efficient and accurate system. By transitioning to a ReactJS framework (from AngularJS) and incorporating the enhancements outlined above, SafeTravelPH.org aims to address these challenges and revitalize the platform for contemporary use.
+
+The Philippine official website for DRIVER--roadsafety.gov.ph--has been down since 2024. 
 
 For detailed technical information and setup instructions, please refer to the sections below.
 
