@@ -38,6 +38,8 @@ The Philippine official website for DRIVER--roadsafety.gov.ph--has been down sin
 
 For detailed technical information and setup instructions, please refer to the sections below.
 
+Feel free to contact us for any questions or suggestions: developer@safetravel.ph. 
+
 ## Project Folder Structure
 
 The project consists of four main folders:
