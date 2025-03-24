@@ -1,0 +1,89 @@
+{
+  "name": "@safetravelph-driver/driver-ui",
+  "version": "1.0.337",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.9.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.6",
+    "@mui/x-data-grid": "^6.19.4",
+    "@mui/x-date-pickers": "^6.19.4",
+    "@react-google-maps/api": "^2.19.2",
+    "@react-oauth/google": "^0.12.1",
+    "@rjsf/core": "^5.21.0",
+    "@rjsf/utils": "^5.21.0",
+    "@rjsf/validator-ajv8": "^5.21.0",
+    "@syncfusion/ej2-react-calendars": "^25.1.39",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@vis.gl/react-google-maps": "^0.5.0",
+    "apollo-boost": "^0.4.9",
+    "awesome-graphql-client": "^1.0.1",
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.3",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.4.5",
+    "flowbite-react": "^0.7.2",
+    "google-map-react": "^2.2.1",
+    "google-maps-react": "^2.0.6",
+    "graphql": "^15.9.0",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^5.0.0",
+    "react-datetime-picker": "^5.6.0",
+    "react-dom": "^18.2.0",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^5.0.1",
+    "react-pivottable": "^0.11.0",
+    "react-router-dom": "^6.21.3",
+    "react-scripts": "^5.0.1",
+    "react-select": "^5.8.0",
+    "recompose": "^0.30.0",
+    "rsuite": "^5.59.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start:dev": "pnpm start",
+    "sd": "pnpm start:dev",
+    "clean": "del-cli build",
+    "clean:build": "pnpm clean && pnpm build",
+    "cb": "pnpm run clean:build",
+    "clean:all": "del-cli node_modules build tsconfig.tsbuildinfo libs",
+    "c:all": "pnpm clean:all",
+    "serve": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start:production": "pm2 start pm2.json",
+    "start:production1": "serve -s build",
+    "build:production": "pnpm build",
+    "copy:files:env": "echo copy:files:env",
+    "copy:tarballs": "pnpm copy:tarballs:safetravelph-commons",
+    "copy:tarballs:safetravelph-commons": "cpy ../../../safetravelph-commons/packages/commons-shared/libs/safetravelph-commons-commons-shared.tgz libs/safetravelph-commons --flat",
+    "install:tarballs": "pnpm add file:libs/safetravelph-commons/safetravelph-commons-commons-shared.tgz",
+    "predeploy": "pnpm copy:tarballs && npm version --no-git-tag-version patch",
+    "bump:version": "npm version --no-git-tag-version patch"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

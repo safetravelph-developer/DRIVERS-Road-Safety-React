@@ -1,0 +1,27 @@
+/* 
+ * NOTE: This CSS file is used in the 'list.js' file. 
+ * It styles the table and list container to ensure proper layout and design.
+ */
+
+.list {
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+ 
+table {
+    /* border: 2px solid forestgreen; */
+    width: 100%;
+}
+ 
+th {
+    border-bottom: 1px solid grey;
+    font-size: 18px;
+    text-align: left;
+}
+ 
+td {
+    /* text-align: center; */
+    border-bottom: 1px solid grey;
+    font-size: 13px;
+}

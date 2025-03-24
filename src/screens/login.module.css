@@ -1,0 +1,51 @@
+/* 
+ * NOTE: This CSS file is used in the 'login_form.js' file. 
+ * It styles the login form, including input fields, buttons, and layout.
+ */
+
+.form {
+    display: -ms-grid;
+    display: grid;
+    border-width: 1px;
+  }
+  
+  input {
+    padding-left: 10px;
+    font-size: 15px;
+  }
+  
+  .input {
+    border: 1px solid #CED4DA;
+    width: 70%;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 0.1px 0.1px;
+  }
+  .loginBtn {
+    width: 200px;
+    margin-top: 30px;
+    height: 30px;
+    font-size: 15px;
+    background-color: #0D6EFD;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+  } 
+  
+  .loginBtn1 {
+    width: 200px;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 15px;
+    /* background-color: #DC3545; */
+    color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  
+  .div {
+    margin-left: 20%;
+    margin-top: 50px;
+  }
+  
