@@ -8,9 +8,9 @@ We are proud to announce the release of an updated version of the Data for Road 
 
 The first [DRIVERS open source project](https://github.com/WorldBank-Transport/DRIVER) was developed and launched by the World Bank in various countries, including the Philippines. Its code was last updated in 2019. 
 
-Test website: [nctscrtip-driver.safetravel.ph](nctscrtip-driver.safetravel.ph)
+Test website: [nctscrtip-driver.safetravel.ph](https://nctscrtip-driver.safetravel.ph)
 
-Government website using the old program: [roadsafety.gov.ph](roadsafety.gov.ph)
+Government website using the old program: [roadsafety.gov.ph](https://roadsafety.gov.ph)
 
 ### Key Enhancements in This Version:
 
