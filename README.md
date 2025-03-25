@@ -1,8 +1,10 @@
-# DRIVERS-Road-Safety-SafeTravelPH
+# DRIVERS 2024 Update - Data for Road Incident Visualization, Evaluation, and Reporting System 
 
 ## Introduction
 
-SafeTravelPH.org is proud to announce the release of the updated Data for Road Incident Visualization, Evaluation, and Reporting System (DRIVERS), now rebuilt using ReactJS. This modernization aims to enhance developer accessibility and ensure the project's sustainability within the open-source community.
+This iteration of DRIVERS has been made possible through the support of UNICEF's Child Road Traffic Incident Prevention (CRTIP) Program and facilitation of National Center for Transportation Studies Foundation Inc. (NCTSFI).
+
+We are proud to announce the release of an updated version of the Data for Road Incident Visualization, Evaluation, and Reporting System (DRIVERS), now rebuilt using ReactJS. This modernization aims to enhance developer accessibility and ensure the project's sustainability within the open-source community.
 
 Test website: [nctscrtip-driver.safetravel.ph](nctscrtip-driver.safetravel.ph)
 
@@ -21,10 +23,6 @@ Government website using the old program: [roadsafety.gov.ph](roadsafety.gov.ph)
 5. **Incident Parties**: Better documentation of crash events, including identifying incident Parties (1st, 2nd, 3rd) to determine who caused what and who may have the liability. 
 
 6. **Key Details on Pop-Up**: Users can now click on the markers of the record on the map and see key information, or View/Go to the record page of the incident..
-
-
-**Acknowledgments**
-This iteration of DRIVERS has been made possible through the generous seed funding from the National Center for Transportation Studies Foundation Inc. (NCTSFI) and UNICEF's Child Road Traffic Incident Prevention (CRTIP) Program. Their support has been instrumental in advancing our mission to improve road safety.
 
 **Call to Action**
 
