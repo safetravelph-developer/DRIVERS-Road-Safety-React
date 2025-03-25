@@ -24,7 +24,9 @@ Government website using the old program: [roadsafety.gov.ph](roadsafety.gov.ph)
 
 5. **Incident Parties**: Better documentation of crash events, including identifying incident Parties (1st, 2nd, 3rd) to determine who caused what and who may have the liability. 
 
-6. **Key Details on Pop-Up**: Users can now click on the markers of the record on the map and see key information, or View/Go to the record page of the incident..
+6. **Key Details on Pop-Up**: Users can now click on the markers of the record on the map and see key information, or View/Go to the record page of the incident.
+
+7. **Google Maps**: Use of Google Maps as base map to access places information and Street View to better understand the road conditions of incident points. 
 
 **Call to Action**
 
