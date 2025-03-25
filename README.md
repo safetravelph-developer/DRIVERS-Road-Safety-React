@@ -40,7 +40,7 @@ The Philippine official website for DRIVER--roadsafety.gov.ph--has been down sin
 
 For detailed technical information and setup instructions, please refer to the sections below.
 
-Feel free to contact us for any questions or suggestions: developer@safetravel.ph. 
+Feel free to contact us for any questions or suggestions: developer@safetravel.ph. Learn more about our work at [safetravelph.org](safetravelph.org).
 
 ## Project Folder Structure
 
