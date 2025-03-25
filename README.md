@@ -6,7 +6,7 @@ This iteration of DRIVERS has been made possible through the support of UNICEF's
 
 We are proud to announce the release of an updated version of the Data for Road Incident Visualization, Evaluation, and Reporting System (DRIVERS), now rebuilt using ReactJS. This modernization aims to enhance developer accessibility and ensure the project's sustainability within the open-source community.
 
-The first [DRIVERS open source project]https://github.com/WorldBank-Transport/DRIVER) was developed and launched by the World Bank in various countries, including the Philippines. Its code was last updated in 2019. 
+The first [DRIVERS open source project](https://github.com/WorldBank-Transport/DRIVER) was developed and launched by the World Bank in various countries, including the Philippines. Its code was last updated in 2019. 
 
 Test website: [nctscrtip-driver.safetravel.ph](nctscrtip-driver.safetravel.ph)
 
